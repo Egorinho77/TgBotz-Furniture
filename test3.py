@@ -1246,4 +1246,5 @@ def main():
         logger.info("\nОстановка ботов...")
 
 if __name__ == '__main__':
+
     main()
